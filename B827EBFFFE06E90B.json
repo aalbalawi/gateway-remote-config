@@ -1,0 +1,17 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE06E90B", 
+		"servers": [ 
+			{ 
+				"server_address": "ttn-router-us-west", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 35.25, 
+		"ref_longitude": -92.2, 
+		"ref_altitude": 10, 
+		"contact_email": "aalbalawi@atu.edu", 
+		"description": "AA- ATU gateway" 
+	} 
